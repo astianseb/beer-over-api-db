@@ -1,1 +1,1 @@
-# beer-over-api
+# beer-over-api-db
